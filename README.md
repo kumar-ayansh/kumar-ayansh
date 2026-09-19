@@ -33,7 +33,12 @@
 | --- | --- | --- |
 | [HRMS](https://github.com/kumar-ayansh/hrms) | HUMEN RESOURCES AND MANAGEMENT SYSTEM| [tech used] |
 | [GPMTC](https://gpmtc.netlify.app/) | GOVT POLYTECHNIC MAWANA KHURD GALLERY| [tech used] |
-| [Portfolio](https://ayansh.me) | My personal website with all my projects | HTML, CSS, JavaScript |
+| [Portfolio](https://ayansh.me) | My personal website with all my projects | HTML, CSS, JavaScript C , JAVA |
+| [Varanasi Cafe](https://varanasi-cafe.onrender.com/order.html) | Restaurant Website & Cafe website| To Manage Your Cafe With Online|
+
+| [Attendance System](https://endearing-jalebi-022edd.netlify.app/) | High level Unique Mobile Attendance| For College School Hospital etc|
+
+| [Invitation For Wedding ](https://ayansh.me/Invitation/) | Online Invitation cards | Trending Invitation cards |
 
 More projects are on my [portfolio](https://ayansh.me) and in my [repositories](https://github.com/kumar-ayansh?tab=repositories).
 

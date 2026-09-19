@@ -16,8 +16,8 @@
 
 - 🌐 Web developer working with HTML, CSS, JavaScript, Bootstrap and Java
 - 🛠️ I build responsive websites and web apps, and I have worked on many projects
-- 📚 Currently learning: [CSE Diploma]
-- 📍 Based in [Meerut, India]
+- 📚 Currently learning: CSE Diploma
+- 📍 Based in Meerut, India
 - 🚀 See my work at **[ayansh.me](https://ayansh.me)**
 
 ## 🧰 Tech stack
@@ -31,10 +31,12 @@
 
 | Project | What it does | Tech |
 | --- | --- | --- |
-| [HRMS](https://github.com/kumar-ayansh/hrms) | HUMEN RESOURCES AND MANAGEMENT SYSTEM| [HR Synergy] |
-| [GPMTC](https://gpmtc.netlify.app/) | GOVT POLYTECHNIC MAWANA KHURD GALLERY| [Post Your College Memories] |
+| [HRMS](https://github.com/kumar-ayansh/hrms) | HUMEN RESOURCES AND MANAGEMENT SYSTEM| HR Synergy |
+| [GPMTC](https://gpmtc.netlify.app/) | GOVT POLYTECHNIC MAWANA KHURD GALLERY| Post Your College Memories |
 | [Portfolio](https://ayansh.me) | My personal website with all my projects | HTML, CSS, JavaScript C , JAVA |
-| [Varanasi Cafe](https://varanasi-cafe.onrender.com/order.html) | Restaurant Website & Cafe website| To Manage Your Cafe With Online|| [Attendance System](https://endearing-jalebi-022edd.netlify.app/) | High level Unique Mobile Attendance| For College School Hospital etc|| [Invitation For Wedding ](https://ayansh.me/Invitation/) | Online Invitation cards | Trending Invitation cards |
+| [Varanasi Cafe](https://varanasi-cafe.onrender.com/order.html) | Restaurant Website & Cafe website| To Manage Your Cafe With Online|
+| [Attendance System](https://endearing-jalebi-022edd.netlify.app/) | High level Unique Mobile Attendance| For College School Hospital etc|
+| [Invitation For Wedding ](https://ayansh.me/Invitation/) | Online Invitation cards | Trending Invitation cards |
 
 More projects are on my [portfolio](https://ayansh.me) and in my [repositories](https://github.com/kumar-ayansh?tab=repositories).
 

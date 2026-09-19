@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ayansh%20Kumar%20Yadav&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Web%20Developer&descSize=20&descAlignY=62" alt="Ayansh Kumar Yadav, Web Developer" />
@@ -18,7 +17,7 @@
 - 🌐 Web developer working with HTML, CSS, JavaScript, Bootstrap and Java
 - 🛠️ I build responsive websites and web apps, and I have worked on many projects
 - 📚 Currently learning: [what you're learning]
-- 📍 Based in [City, India]
+- 📍 Based in [Meerut, India]
 - 🚀 See my work at **[ayansh.me](https://ayansh.me)**
 
 ## 🧰 Tech stack
@@ -32,8 +31,8 @@
 
 | Project | What it does | Tech |
 | --- | --- | --- |
-| [HRMS](https://github.com/kumar-ayansh/hrms) | [one line about it] | [tech used] |
-| [GPMTC](https://gpmtc.netlify.app/) | [one line about it] | [tech used] |
+| [HRMS](https://github.com/kumar-ayansh/hrms) | HUMEN RESOURCES AND MANAGEMENT SYSTEM| [tech used] |
+| [GPMTC](https://gpmtc.netlify.app/) | GOVT POLYTECHNIC MAWANA KHURD GALLERY| [tech used] |
 | [Portfolio](https://ayansh.me) | My personal website with all my projects | HTML, CSS, JavaScript |
 
 More projects are on my [portfolio](https://ayansh.me) and in my [repositories](https://github.com/kumar-ayansh?tab=repositories).
